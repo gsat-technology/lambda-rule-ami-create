@@ -13,7 +13,7 @@ logger.setLevel(logging.INFO)
 
 #config
 
-ACCOUNT_ID = '670548263515'
+ACCOUNT_ID = '<account number>'
 KEEP_DAILY_DAYS = 3
 KEEP_MONTHLY_DAYS = 90
 MONTH_DAY= 1
